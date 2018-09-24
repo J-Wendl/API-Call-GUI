@@ -17,6 +17,6 @@ Edit the variabled "envOne" and "envTwo" to match your necessary endpoints. The 
 
 Once the source code is ready to go and you're ready to distribute the .exe, navigate to the folder where api_call.py is located and run:
 
-    ```pyinstaller --onefile api_call.py```
+```pyinstaller --onefile api_call.py```
 
 A new "dist" folder will be created and you will find the .exe file.
