@@ -13,7 +13,7 @@ First, install the requests and pyinstaller libraries
 
    ```pip install pyinstaller```
 
-Edit the variabled "envOne" and "envTwo" to match your necessary endpoints. The code can be refactored to include more or less for your needs.
+Edit the variables "envOne" and "envTwo" to match your necessary endpoints. The code can be refactored to include more or less for your needs.
 
 Once the source code is ready to go and you're ready to distribute the .exe, navigate to the folder where api_call.py is located and run:
 
