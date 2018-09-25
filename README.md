@@ -20,3 +20,6 @@ Once the source code is ready to go and you're ready to distribute the .exe, nav
 ```pyinstaller --onefile api_call.py```
 
 A new "dist" folder will be created and you will find the .exe file.
+
+### Finalized standalone
+![Command Line Program](https://user-images.githubusercontent.com/43479990/46019170-7af9d700-c0a9-11e8-9adb-0bc6b29afd85.png)
